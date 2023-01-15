@@ -262,60 +262,59 @@ header {
   width: 100px;
 }
 /* Contact Us */
-.contact-us{
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    margin-bottom: 40px;
-    border-radius: 5px;
-    background-color: rgb(243, 238, 238);
+.contact-us {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 40px;
+  border-radius: 5px;
+  background-color: rgb(243, 238, 238);
 }
-.contact-us:hover{
-    background-color: var(--background-color);
-    box-shadow: 10px 10px 10px rgb(226, 226, 226);
-
+.contact-us:hover {
+  background-color: var(--background-color);
+  box-shadow: 10px 10px 10px rgb(226, 226, 226);
 }
-.contact-us h1{
-    font-size: 40px;
-    color: var(--dark-1);
-    padding-top:30px;
+.contact-us h1 {
+  font-size: 40px;
+  color: var(--dark-1);
+  padding-top: 30px;
 }
-.contact-us h3{
-    font-size: 14px;
-    padding: 10px 0;
-    color: var(--dark-2);
-    line-height: 10px;
+.contact-us h3 {
+  font-size: 14px;
+  padding: 10px 0;
+  color: var(--dark-2);
+  line-height: 10px;
 }
-.contact-us ul{
-    display: flex;
-    width: 200px;
-    margin: auto;
-    justify-content: space-around;
-    padding: 20px;
+.contact-us ul {
+  display: flex;
+  width: 200px;
+  margin: auto;
+  justify-content: space-around;
+  padding: 20px;
 }
-.contact-us ul li{
-    list-style: none;
-    font-size: 20px;
+.contact-us ul li {
+  list-style: none;
+  font-size: 20px;
 }
-.contact-us ul li:hover{
-    cursor: pointer;
-    transform: scale(1.1);
+.contact-us ul li:hover {
+  cursor: pointer;
+  transform: scale(1.1);
 }
-hr{
-    width: 80%;
+hr {
+  width: 80%;
 }
 /* footer part */
-footer{
-    width: 80%;
-    margin: auto;
-    background-color: var(--background-color);
-    padding: 18px;
-    margin-bottom: 40px;
+footer {
+  width: 80%;
+  margin: auto;
+  background-color: var(--background-color);
+  padding: 18px;
+  margin-bottom: 40px;
 }
-footer h1{
-    font-size: 16px;
-    text-align: center;
-    color: var(--dark-2);
+footer h1 {
+  font-size: 16px;
+  text-align: center;
+  color: var(--dark-2);
 }
 /* Media Q. for mobile  */
 
